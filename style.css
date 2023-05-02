@@ -1,1 +1,24 @@
+body {
+    background-color: black;
+    text-align: justify;
+}
+
+h1 {
+    color: rgb(235, 235, 241);
+    text-align: center;
+}
+
+
+p{
+    color: rgb(247, 242, 242);
+    text-align: justify;
+}
+
+
+
+#imagem1 {
+    border: 5px solid #141314;
+    width: 500px;
+}
+
 
